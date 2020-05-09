@@ -416,3 +416,30 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+.headerbar{
+  text-align: center;
+  text-decoration: none;
+}
+
+
+.headerbarlinks{
+  text-decoration: none;
+  color: teal;
+}
+
+.headerbarlinks:link{
+  text-decoration: none;
+  color: teal;
+}
+
+.headerbarlinks:hover{
+  text-decoration: none;
+  color: teal;
+
+}
+
+.headerbarlinks:active{
+  text-decoration: none;
+  color: green;
+}
