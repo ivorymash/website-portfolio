@@ -1,3 +1,40 @@
 body {
-    background-image: url(../images/bg.png);
+  background-image: url(../images/bg.png);
+  background-size: cover;
+
+}
+
+.yourmother {
+  background-color: whitesmoke;
+  padding-top: 1%;
+  text-align: center;
+}
+
+.headerbar {
+  text-align: center;
+  text-decoration: none;
+}
+
+.hbgrp{
+    align-items: right;
+}
+
+.headerbarlinks {
+  text-decoration: none;
+  color: purple;
+}
+
+.headerbarlinks:link {
+  text-decoration: none;
+  color: teal;
+}
+
+.headerbarlinks:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.headerbarlinks:active {
+  text-decoration: none;
+  color: green;
 }
