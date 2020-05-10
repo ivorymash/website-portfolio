@@ -1,7 +1,12 @@
 body {
   background-image: url(../images/bg.png);
   background-size: cover;
+    /* background-color: black; */
+}
 
+.pfp {
+    border-radius: 50%;
+    width: 25%;
 }
 
 .yourmother {
